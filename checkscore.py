@@ -42,8 +42,3 @@ elif score <= 40 or score < 70:
     time.sleep(1)
     print("you FAILED")
 
-# this works really well, i like this trick i will have to keep this around to use it in future builds!!
-
-# maestro got mad at me for writing this code because i added elif into the code and we "havent learned that yet" but i used it properly and demonstrated my understanding of the concepts
-# if and else, and, not, and or, with this bit of code. oh well i guess AI doesnt appreciate creativity lol. another bit of class practice 
-# another spell conjured by the terminal wizard wifiknight!!
