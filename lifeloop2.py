@@ -127,9 +127,7 @@ def wifi_knight_day():
             print("\nSystem: Of course you said no. Continuing anyway...")
             energy -= 10
 
-        # Safety exit condition
-        # You try to skip rest to learn more, but your built-in guardian daemon
-        # slams the brakes before you fry your own CPU.
+       
         if energy <= 10 or loop_count >= 6:
             print("\n[SAFETY EXIT CONDITION TRIGGERED]")
             print("Subconscious guardian daemon: 'Absolutely not. Touch grass. Or at least the pillow.'")
