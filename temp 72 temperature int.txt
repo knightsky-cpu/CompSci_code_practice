@@ -1,0 +1,14 @@
+temp = 72
+temperature = int(temp) * 1
+
+def is_warm():
+    if temperature >= 70:
+        print("is_warm")
+        print(type(is_warm))
+    else:
+        print("is'nt_warm")
+        print(type(is_warm))
+
+
+    
+is_warm()
