@@ -20,7 +20,3 @@ print("it costs you", f"${cost_per_hour:.2f}", "per hour for electricty to power
 
 
 # this spell was conjured up by the terminal wizard wifiknight 
-# i have been studying python for a week, so far we have covered variables, data types, converting data types, basic arithmetic operations, real world examples of python at work. this is a cool language i am falling in love with it
-# this was similar to the code i wrote for my practice sessions in class free balling a power bill calculator.
-
-# How am i Doing so far? Did i explain what i was doing well? is the code clean and clear? how well is it structured? can i do anything differently? what can i do better?  
